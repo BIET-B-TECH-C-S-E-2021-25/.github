@@ -27,7 +27,7 @@ This organization serves as a collaborative platform for students pursuing Compu
 
 ## Important Links
 
-- [BIET Official Website](http://www.bansalinstitute.com/)
+- [BIET Official Website](https://www.bansaliet.in/)
 - [BIET B.Tech C.S.E Curriculum](#) [Replace with appropriate link]
 - [BIET Academic Calendar](#) [Replace with appropriate link]
 
